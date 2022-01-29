@@ -1,0 +1,711 @@
+{
+    "Favorites": [
+      {
+        "kind": "books#volume",
+        "id": "rXdVPwAACAAJ",
+        "etag": "G96v7+RTMYA",
+        "selfLink": "https://books.googleapis.com/books/v1/volumes/rXdVPwAACAAJ",
+        "volumeInfo": {
+          "title": "The Queen's Gambit",
+          "authors": [
+            "Walter Tevis"
+          ],
+          "publisher": "Penguin Classics",
+          "publishedDate": "2009",
+          "description": "With an Introduction by Lionel Shriver 'Walter Tevis's most consummate and heartbreaking work' Jonathan Lethem Sent to an orphanage at age eight, Beth Harmon finds only two pleasures in life - chess, for which she has a preternatural gift, and ...",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "0141190388"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9780141190389"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 243,
+          "printType": "BOOK",
+          "categories": [
+            "Chess"
+          ],
+          "averageRating": 4,
+          "ratingsCount": 23,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=rXdVPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=rXdVPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "previewLink": "http://books.google.com/books?id=rXdVPwAACAAJ&hl=&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=rXdVPwAACAAJ&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/The_Queen_s_Gambit.html?hl=&id=rXdVPwAACAAJ"
+        },
+        "userInfo": {
+          "updated": "2021-09-07T18:24:18.916Z"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=rXdVPwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "k9vI7-WwGmMC",
+        "etag": "R6IThZiInxU",
+        "selfLink": "https://books.googleapis.com/books/v1/volumes/k9vI7-WwGmMC",
+        "volumeInfo": {
+          "title": "Ender's Game",
+          "authors": [
+            "Orson Scott Card"
+          ],
+          "publisher": "Macmillan",
+          "publishedDate": "1991-08-15",
+          "description": "A veteran of years of simulated war games, Ender believes he is engaged in one more computer war game when in truth he is commanding the last fleet of Earth against an alien race seeking the complete destruction of Earth",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780312932084"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0312932081"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 357,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "averageRating": 4,
+          "ratingsCount": 688,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.2.0.0.preview.0",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=k9vI7-WwGmMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=k9vI7-WwGmMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "previewLink": "http://books.google.com/books?id=k9vI7-WwGmMC&printsec=frontcover&hl=&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=k9vI7-WwGmMC&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Ender_s_Game.html?hl=&id=k9vI7-WwGmMC"
+        },
+        "userInfo": {
+          "updated": "2021-08-23T01:34:52.197Z"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=k9vI7-WwGmMC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "vH3LDwAAQBAJ",
+        "etag": "kan1VLcgjPc",
+        "selfLink": "https://books.googleapis.com/books/v1/volumes/vH3LDwAAQBAJ",
+        "volumeInfo": {
+          "title": "The Invisible Life of Addie LaRue",
+          "authors": [
+            "V. E. Schwab"
+          ],
+          "publisher": "Tor Books",
+          "publishedDate": "2020-10-06",
+          "description": "NEW YORK TIMES BESTSELLER USA TODAY BESTSELLER NATIONAL INDIE BESTSELLER THE WASHINGTON POST BESTSELLER Recommended by Entertainment Weekly, Real Simple, NPR, Slate, and Oprah Magazine #1 Library Reads Pick\u2014October 2020 #1 Indie Next Pick ...",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780765387585"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0765387581"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 480,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "averageRating": 4,
+          "ratingsCount": 51,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.4.5.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=vH3LDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=vH3LDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "previewLink": "http://books.google.com/books?id=vH3LDwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=vH3LDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vH3LDwAAQBAJ"
+        },
+        "layerInfo": {
+          "layers": [
+            {
+              "layerId": "geo",
+              "volumeAnnotationsVersion": "5"
+            }
+          ]
+        },
+        "userInfo": {
+          "updated": "2021-08-23T01:32:40.377Z"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 13.99,
+            "currencyCode": "USD"
+          },
+          "retailPrice": {
+            "amount": 13.99,
+            "currencyCode": "USD"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=vH3LDwAAQBAJ&rdid=book-vH3LDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 13990000,
+                "currencyCode": "USD"
+              },
+              "retailPrice": {
+                "amountInMicros": 13990000,
+                "currencyCode": "USD"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=vH3LDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "0cH0AAAAQBAJ",
+        "etag": "UkV6DSLFRkE",
+        "selfLink": "https://books.googleapis.com/books/v1/volumes/0cH0AAAAQBAJ",
+        "volumeInfo": {
+          "title": "All the Light We Cannot See",
+          "subtitle": "A Novel",
+          "authors": [
+            "Anthony Doerr"
+          ],
+          "publisher": "Simon and Schuster",
+          "publishedDate": "2014-05-06",
+          "description": "*Winner of the Pulitzer Prize* A New York Times Book Review Top Ten Book* A National Book Award Finalist* From Anthony Doerr, the highly acclaimed, multiple award-winning author of Cloud Cuckoo Land, the beautiful, stunningly ambitious instant ...",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781476746609"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1476746605"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 544,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "averageRating": 4,
+          "ratingsCount": 3584,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "2.68.45.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=0cH0AAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=0cH0AAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "previewLink": "http://books.google.com/books?id=0cH0AAAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=0cH0AAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0cH0AAAAQBAJ"
+        },
+        "layerInfo": {
+          "layers": [
+            {
+              "layerId": "geo",
+              "volumeAnnotationsVersion": "90"
+            }
+          ]
+        },
+        "userInfo": {
+          "updated": "2017-04-07T18:14:59.296Z"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 13.99,
+            "currencyCode": "USD"
+          },
+          "retailPrice": {
+            "amount": 13.99,
+            "currencyCode": "USD"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=0cH0AAAAQBAJ&rdid=book-0cH0AAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 13990000,
+                "currencyCode": "USD"
+              },
+              "retailPrice": {
+                "amountInMicros": 13990000,
+                "currencyCode": "USD"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/All_the_Light_We_Cannot_See-sample-epub.acsm?id=0cH0AAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=0cH0AAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      }
+    ],
+    "Wish List": [
+      {
+        "kind": "books#volume",
+        "id": "CGVDDwAAQBAJ",
+        "etag": "ZvNGRaGbAxQ",
+        "selfLink": "https://books.googleapis.com/books/v1/volumes/CGVDDwAAQBAJ",
+        "volumeInfo": {
+          "title": "Where the Crawdads Sing",
+          "authors": [
+            "Delia Owens"
+          ],
+          "publisher": "Penguin",
+          "publishedDate": "2018-08-14",
+          "description": "#1 NEW YORK TIMES BESTSELLING PHENOMENON More than 6 million copies sold A Reese Witherspoon x Hello Sunshine Book Club Pick A Business Insider Defining Book of the Decade \"I can't even express how much I love this book! I didn't want this story ...",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780735219113"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0735219117"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 384,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "averageRating": 4,
+          "ratingsCount": 218,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.6.6.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=CGVDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=CGVDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "previewLink": "http://books.google.com/books?id=CGVDDwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=CGVDDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CGVDDwAAQBAJ"
+        },
+        "layerInfo": {
+          "layers": [
+            {
+              "layerId": "geo",
+              "volumeAnnotationsVersion": "8"
+            }
+          ]
+        },
+        "userInfo": {
+          "updated": "2021-12-18T23:55:34.823Z"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 12.99,
+            "currencyCode": "USD"
+          },
+          "retailPrice": {
+            "amount": 12.99,
+            "currencyCode": "USD"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=CGVDDwAAQBAJ&rdid=book-CGVDDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 12990000,
+                "currencyCode": "USD"
+              },
+              "retailPrice": {
+                "amountInMicros": 12990000,
+                "currencyCode": "USD"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Where_the_Crawdads_Sing-sample-epub.acsm?id=CGVDDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=CGVDDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "OUsVswEACAAJ",
+        "etag": "fDz9ViNVFrY",
+        "selfLink": "https://books.googleapis.com/books/v1/volumes/OUsVswEACAAJ",
+        "volumeInfo": {
+          "title": "Rise of the Rocket Girls",
+          "subtitle": "The Women Who Propelled Us, from Missiles to the Moon to Mars",
+          "authors": [
+            "Nathalia Holt"
+          ],
+          "publisher": "Little, Brown",
+          "publishedDate": "2016-04-12",
+          "description": "The riveting true story of the women who launched America into space. In the 1940s and 50s, when the newly minted Jet Propulsion Laboratory needed quick-thinking mathematicians to calculate velocities and plot trajectories, they didn't turn to ...",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "0316338923"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9780316338929"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 304,
+          "printType": "BOOK",
+          "categories": [
+            "History"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=OUsVswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=OUsVswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "previewLink": "http://books.google.com/books?id=OUsVswEACAAJ&hl=&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=OUsVswEACAAJ&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Rise_of_the_Rocket_Girls.html?hl=&id=OUsVswEACAAJ"
+        },
+        "userInfo": {
+          "updated": "2021-12-18T23:55:34.823Z"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=OUsVswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "49RdDwAAQBAJ",
+        "etag": "qUT1v9ql7h8",
+        "selfLink": "https://books.googleapis.com/books/v1/volumes/49RdDwAAQBAJ",
+        "volumeInfo": {
+          "title": "The Priory of the Orange Tree",
+          "authors": [
+            "Samantha Shannon"
+          ],
+          "publisher": "Bloomsbury Publishing USA",
+          "publishedDate": "2019-02-26",
+          "description": "The New York Times bestselling \"epic feminist fantasy perfect for fans of Game of Thrones\" (Bustle). NAMED A BEST BOOK OF THE YEAR BY: AMAZON (Top 100 Editors Picks and Science Fiction and Fantasy) * CHICAGO PUBLIC LIBRARY * BOOKPAGE ...",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781635570281"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "163557028X"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 848,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "averageRating": 3.5,
+          "ratingsCount": 16,
+          "maturityRating": "MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "2.11.9.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=49RdDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=49RdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "previewLink": "http://books.google.com/books?id=49RdDwAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=49RdDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=49RdDwAAQBAJ"
+        },
+        "layerInfo": {
+          "layers": [
+            {
+              "layerId": "geo",
+              "volumeAnnotationsVersion": "14"
+            }
+          ]
+        },
+        "userInfo": {
+          "updated": "2021-12-18T23:55:34.823Z"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 16,
+            "currencyCode": "USD"
+          },
+          "retailPrice": {
+            "amount": 10.08,
+            "currencyCode": "USD"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=49RdDwAAQBAJ&rdid=book-49RdDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 16000000,
+                "currencyCode": "USD"
+              },
+              "retailPrice": {
+                "amountInMicros": 10080000,
+                "currencyCode": "USD"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/The_Priory_of_the_Orange_Tree-sample-epub.acsm?id=49RdDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/The_Priory_of_the_Orange_Tree-sample-pdf.acsm?id=49RdDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=49RdDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "BdPPngEACAAJ",
+        "etag": "TJs4GlYpGeE",
+        "selfLink": "https://books.googleapis.com/books/v1/volumes/BdPPngEACAAJ",
+        "volumeInfo": {
+          "title": "Ghost in the Wires",
+          "subtitle": "My Adventures as the World's Most Wanted Hacker",
+          "authors": [
+            "Kevin Mitnick"
+          ],
+          "publisher": "Little Brown & Company",
+          "publishedDate": "2011-08-15",
+          "description": "The world's most famous former computer hacker, now a security consultant, describes his life on the run from the FBI creating fake identities, finding jobs at a law firm and a hospital and keeping tabs on his pursuers.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "0316037702"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9780316037709"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 413,
+          "printType": "BOOK",
+          "categories": [
+            "Biography & Autobiography"
+          ],
+          "averageRating": 3.5,
+          "ratingsCount": 19,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=BdPPngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=BdPPngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "previewLink": "http://books.google.com/books?id=BdPPngEACAAJ&hl=&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=BdPPngEACAAJ&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Ghost_in_the_Wires.html?hl=&id=BdPPngEACAAJ"
+        },
+        "userInfo": {
+          "updated": "2021-08-02T01:12:40.745Z"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=BdPPngEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      }
+    ]
+  }

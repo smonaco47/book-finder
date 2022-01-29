@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 import csv
-import json
 from time import sleep
 import requests
 from requests_html import AsyncHTMLSession
@@ -141,6 +140,10 @@ class OverdriveScraper(Scraper):
             if "Your session has expired" in str(content):
                 raise Exception("It knows I'm a robot")
             else:
+                filename = f"overdrive_errors/output_{title}.html"
+                with open(filename, 'w') as file:
+                    file.write(content)
+                print(f"Div not found, output saved to {filename}")
                 print("Div not found")
                 raise LookupError("Div not found")
 
@@ -169,7 +172,7 @@ class OverdriveScraper(Scraper):
             raise LookupError("Name not found")
 
         return {
-            "name": name,
+            "title": name,
             "audiobook": audiobook,
             "ebook": ebook,
             "available": available,
@@ -196,7 +199,7 @@ class AmazonScraper(Scraper):
         soup = BeautifulSoup(content, features="html.parser")
 
         d = soup.find(
-            'div', attrs={'class': 'sg-col sg-col-4-of-12 sg-col-8-of-16 sg-col-12-of-20'})
+            'div', attrs={'class': 'sg-col sg-col-4-of-12 sg-col-8-of-16 sg-col-12-of-20 s-list-col-right'})
         return d, content
 
     async def get_data(self, title, author):
@@ -208,17 +211,23 @@ class AmazonScraper(Scraper):
             sleep(5)
 
         if d is None:
-            if "Sorry, we just need to make sure you\\'re not a robot." in str(content):
+            if "Sorry, we just need to make sure you\\'re not a robot." in str(content) or \
+                "To discuss automated access to Amazon data please contact api-services-support@amazon.com" in str(content):
                 print("It knows I'm a robot")
                 raise Exception("It knows I'm a robot")
             else:
-                print("Div not found")
-                raise LookupError("Div not found")
+                filename = f"amazon_errors/output_{title}.html"
+                with open(filename, 'w') as file:
+                    file.write(content)
+                print(f"Div not found, output saved to {filename}")
+                raise LookupError("Expected div not found")
 
         name = d.find(
             'span', attrs={'class': 'a-size-medium a-color-base a-text-normal'})
         if name is not None:
             name = name.text
+            if title not in name:
+                raise LookupError("Name does not match")
         else:
             raise LookupError("Name not found")
 
