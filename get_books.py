@@ -7,6 +7,7 @@ from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
+import json
 
 # If modifying these scopes, delete the file token.json.
 SCOPES = ['https://www.googleapis.com/auth/books']
@@ -39,9 +40,12 @@ def main():
         
         volumes = {}
         for shelf in shelves['items']:
+            if shelf['title'] in ('My Books', 'Books for you'):
+                continue
+            
             try:
-                volumes_on_shelf = service.mylibrary().bookshelves().volumes().list(shelf=shelf['id'], maxResults=500).execute()
-                if volumes_on_shelf['totalItems']>0:
+                volumes_on_shelf = service.mylibrary().bookshelves().volumes().list(shelf=shelf['id'], maxResults=1000).execute()
+                if volumes_on_shelf['totalItems'] > 0:
                     volumes[shelf['title']] = volumes_on_shelf['items']
             except HttpError as err:
                 print(err)
@@ -51,10 +55,9 @@ def main():
 
     for volume in volumes:
         print(volume, len(volumes[volume]))
-
-    print('Wish List ISBNs:')
-    print(','.join(map(lambda b: b['volumeInfo']['industryIdentifiers'][0]['identifier'], volumes['Wish List'])))
-
+    
+    with open('books.json', 'w') as out:
+        out.write(json.dumps(volumes, indent=2))
 
 if __name__ == '__main__':
     main()
