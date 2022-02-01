@@ -31,6 +31,6 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-Run the (Transform google books)[Transform google books.ipynb] notebook to collect all of the scraped information. Scraped Amazon & overdrive data is cached to files locally, so you can re-run and it will not re-run the commands.
+Run the [Transform google books](https://github.com/smonaco47/book-finder/blob/main/Transform%20google%20books.ipynb) notebook to collect all of the scraped information. Scraped Amazon & overdrive data is cached to files locally, so you can re-run and it will not re-run the commands.
 
-Then, run the (Book Analysis)[Book Analysis.ipynb] notebook to analyze the data that was collected.
+Then, run the [Book Analysis](https://github.com/smonaco47/book-finder/blob/main/Book%20Analyis.ipynb) notebook to analyze the data that was collected.
